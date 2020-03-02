@@ -10,7 +10,7 @@ def happy_birthday(birthday_kids)
      name = name_age[0]
      age = name_age[1]
      puts "Happy Birthday #{name}! You are now #{age} years old!"
-     if age <= 12 
+     if age <= 12
      puts "Happy Birthday #{name}! You are now #{age} years old!"
   }
 end
